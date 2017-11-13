@@ -1,6 +1,6 @@
-package com.narcielitonlopes.crud.api.Controllers;
+package com.narcielitonlopes.crud.api.controllers;
 
-import com.narcielitonlopes.crud.api.Response.Response;
+import com.narcielitonlopes.crud.api.response.Response;
 import com.narcielitonlopes.crud.api.document.Cliente;
 import com.narcielitonlopes.crud.api.services.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;

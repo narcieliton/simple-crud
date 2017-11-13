@@ -1,4 +1,4 @@
-package com.narcielitonlopes.crud.api.Response;
+package com.narcielitonlopes.crud.api.response;
 
 import java.util.List;
 
